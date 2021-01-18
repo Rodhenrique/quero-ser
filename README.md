@@ -1,10 +1,6 @@
 # 3-Desafios-Dojo-Puzzles---Intelitrader-
 Nesse repositório contém três desafios do Dojo Puzzles, que fazer parte de um processo seletivo da Intelitrader 
 
-
-==================================================================
-                      Link do video no Youtube
-==================================================================
 1 - Desafio Um mundo pequeno
 
 Como um programador muito popular, você conhece muitas pessoas em seu país. Como você viaja muito, você decidiu que seria muito útil de ter um programa que te dissesse quais de seus amigos estão mais próximos baseado em qual amigo você está atualmente visitando.
