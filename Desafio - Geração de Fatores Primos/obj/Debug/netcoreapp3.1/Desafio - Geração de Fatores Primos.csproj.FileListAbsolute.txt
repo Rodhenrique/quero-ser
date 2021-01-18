@@ -1,0 +1,11 @@
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.exe
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.deps.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.runtimeconfig.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\bin\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.pdb
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\obj\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\obj\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\obj\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.AssemblyInfo.cs
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\obj\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Geração de Fatores Primos\obj\Debug\netcoreapp3.1\Desafio - Geração de Fatores Primos.pdb

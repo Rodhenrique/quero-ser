@@ -1,104 +1,55 @@
-# Quero ser Intelitrader!
+# 3-Desafios-Dojo-Puzzles---Intelitrader-
+Nesse repositório contém três desafios do Dojo Puzzles, que fazer parte de um processo seletivo da Intelitrader 
 
-Em primeiro lugar, é bom dizer que nós **amamos** o que fazemos: programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, padrões. E queremos no time gente como a gente.
 
-Ao que interessa:
+==================================================================
+                      Link do video no Youtube
+==================================================================
+1 - Desafio Um mundo pequeno
 
-* [Quem somos nós?](#OqEhAIntelitrader)
-* [Sobre as vagas](#SobreAsVagas)
-* [Localização](#Localizacao)
-* [Como me candidato?](#ComoMeCandidato)
-* [Requisitos básicos](#RequisitosBasicos)
-* [Posições](#Posicoes)
-	* [Software Engineer](#QualificacoesSE)
-	* [Front-End Engineer](#QualificacoesFE)
-* [Condições e Benefícios](#CondicoesEDiferenciais)
+Como um programador muito popular, você conhece muitas pessoas em seu país. Como você viaja muito, você decidiu que seria muito útil de ter um programa que te dissesse quais de seus amigos estão mais próximos baseado em qual amigo você está atualmente visitando.
 
--------
-### [Pera, mas o que é a Intelitrader?](id:OqEhAIntelitrader)
-A [Intelitrader](http://www.intelitrader.com.br) é uma empresa especializada no desenvolvimento de **soluções de alto desempenho para o mercado financeiro**, temos no nosso portfólio de clientes alguns dos maiores players do mercado financeiro nacional.
+Cada um de seus amigos vive em uma posição específica (latitude e longitude) - para os propósitos deste problema o mundo é plano e a latitude e a longitude são coordenadas cartesianas em um plano - e você consegue identificá-los de alguma maneira. Também cada amigo mora em uma posição diferente (dois amigos nunca estão na mesma latitude e longitude).
 
-### [Sobre as vagas](id:SobreAsVagas)
-Estamos sempre procurando por talentos para integrar o nosso dream team. As posições de desenvolvimento vão desde engenharia de software de **back-end** (encarando desafios de escalabilidade e desempenho das soluções), até engenharia de **front-end** (desafios de escalabilidade, desempenho e usabilidade).
+Escreva um programa que receba a localização de cada um dos seus amigo e, para cada um deles, você indique quais são os outros três amigos mais próximos a ele.
 
-### [Onde vocês ficam?](id:Localizacao)
-Em todos os lugares, aqui todo mundo trabalha **de onde quiser (mesmo sem a quarentena)**.
+Link: https://dojopuzzles.com/problems/um-mundo-pequeno/
 
-### [Como me candidato?](id:ComoMeCandidato)
+2 - Desafio Geração de Fatores Primos
 
-1. Leia essas instruções com atenção. Sua candidatura só será considerada se seu teste for feito corretamente conforme as instruções.
+Todo número inteiro positivo pode ser representado pelo produto de potências de números primos (os chamados fatores primos).
 
-2. Faça um fork desse repositório, escolha 3 testes desafiadores do [DojoPuzzles](http://dojopuzzles.com/), resolva com sua linguagem favorita, crie um pull request com sua solução e envie um e-mail para **vagas.dev@intelitrader.com.br**. Seu e-mail deve conter o **link do problema**, **sua solução** (link para o pull request), um **link para seu curriculum, portfolio ou linkedin** e também diga como chegou até nós :). Avaliaremos sua solução **ASAP**. Ah, se você mandar o famigerado teste do "Ano Bisexto" seu curriculum vai para o fim da fila de avaliação.
+Por exemplo o número 6 pode ser representado pelo produto do números primos 2 x 3.
 
-3. Com hora marcada, um dos membros do nosso time entrará em contato com você para uma **conversa descontraída** sobre suas habilidades.
+Outros exemplos:
 
-4. Agora é só esperar, se você for ***O Escolhido***, receberá as próximas instruções em breve.
+5 = 5 (números primos só tem um fator primo - ele mesmo)
+100 = 2 x 2 x 5 x 5
+198 = 2 x 3 x 3 x 11
+276 = 2 x 2 x 3 x 23
+Desenvolva um programa que dado um número inteiro positivo, retorne os seus fatores primos
 
-### [Requisitos Básicos](id:RequisitosBasicos)
+Link:https://dojopuzzles.com/problems/geracao-de-fatores-primos/
 
-* Precisamos de gente que procure o **estado da arte** no que faz, MAS que tenha plena noção de que **nem sempre é possível** alcançá-lo em um ambiente ágil =(;
-* Ter graduação é legal! Mas se você não for formado, não tem problema. Conhecemos vários profissionais plenamente capacitados que não são formados.
+3 - Desafio Identificando Progressões Aritméticas
 
-### [Diferenciais](id:Diferenciais)
+Uma progressão aritmética (PA) é um seqüência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com uma constante R positiva (denominada razão).
 
-* **Inteligência** e **Dedicação**: Mais do que a experiência, valorizamos a forma como lida com aquilo que **não sabe**.
-* Melhorar Sempre: Estamos em busca de pessoas que **respirem** a filosofia de **melhoria contínua**.
+A fórmula geral de uma PA é:
 
-## [Posições](id:Posicoes)
-----
+an = a1 + (n - 1) * R
 
-#### [Software Engineer](id:QualificacoesSE)
-Você irá criar e aprimorar as soluções que tratam a imensa maioria das informações, processos "invisíveis" para o usuário comum. Ex: Cotação da bolsa de valores, informações de clientes, APIs web, etc.
+Dado um conjunto de números inteiros positivos, identificar todos os subconjuntos de no mínimo 3 elementos onde os números formam uma progressão aritmética.
 
-**Qualificações mínimas**
+Devem ser apresentados sempre os maiores subconjuntos que forme uma PA
 
-* Ao menos 6 meses de experiência relevante **OU** estar cursando técnico ou gradução em Ciências das Computação, Sistemas da Informação e áreas relacionadas;
-* Sólidos conhecimentos em **lógica de programação**;
-* Sólidos conhecimentos em **Orientação a objetos** (classes, atributos, métodos, objetos, encapsulamento, associação, herança, interfaces, polimorfismo);
-* Bons conhecimentos de estruturas de dados (pilhas, filas, arrays, matrizes, dicionários, listas ligadas, etc)
-* Conhecimentos mínimos em **comunicação entre client-side e server-side** (HTTP, REST, serialização, JSON);
-* **Inglês** técnico (leitura / escrita);
-* **GIT**;
+Por exemplo, dado o subconjunto (1,2,3,5,6,7,9) teríamos como resultado:
 
-**Qualificões desejáveis (mas não essenciais)**
+(1,2,3)
+(5,6,7)
+(1,3,5,7,9)
+(3,6,9)
+(1,5,9)
+Note que, por exemplo, (1,3,5) não deve ser apresentada, porque já faz parte de (1,3,5,7,9).
 
-* Conhecimentos em infraestrutura (Configuração de IIS);
-* Arquitetura escalável;
-* Práticas de engenharia de software e XP (DDD, TDD, Refactoring, CI, Coding Standards, Pair Programming, ...);
-* Segurança (SQL Injection);
-* Vagrant, Docker, AWS;
-* Sistemas de fila (RabbitMQ, ActiveMQ, ...);
-
-#### [Front-End Engineer](id:QualificacoesFE)
-Você irá criar e aprimorar as soluções com as quais os usuários finais interagem, e que por sua vez interagem com o back-end.
-
-**Qualificações mínimas**
-
-* HTML (principalmente semântica);
-* Javascript (sem dependência de jQuery, boas práticas);
-* CSS 3;
-* Bons conhecimentos em **comunicação entre client-side e server-side** (HTTP, REST, serialização, JSON);
-* **Inglês** técnico (leitura / escrita);
-* **GIT**;
-
-**Qualificões desejáveis (mas não essenciais)**
-
-* Asp.NET;
-* Desenvolvimento para mobile (nativo): iOS, Android, Xamarin;
-* Layouts responsivos;
-* API Query languages: OData, GraphQL, ...;
-* Frameworks SPA: AngularJS, React, Vue, ...;
-* Práticas de engenharia de software e XP (DDD, TDD, Refactoring, CI, Coding Standards, Pair Programming, ...);
-* HTML5 features (localStorage, geoLocation, history API, etc);
-
-## [Condições e Diferenciais](id:CondicoesEDiferenciais)
-
-* Regime: **PJ**;
-* Período: **Integral**;
-* Contratação: **Imediata**;
-
-**Diferenciais:**
-
-* Home Office;
-* Horário **altamente flexível**;
-* Eventos mensais (**na faixa**);
+Link: https://dojopuzzles.com/problems/identificando-progressoes-aritmeticas/

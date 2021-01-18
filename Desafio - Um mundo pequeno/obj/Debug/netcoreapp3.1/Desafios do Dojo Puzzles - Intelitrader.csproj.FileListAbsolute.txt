@@ -1,0 +1,22 @@
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.exe
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.deps.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.runtimeconfig.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.pdb
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.AssemblyInfo.cs
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.pdb
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.exe
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.deps.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.runtimeconfig.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\bin\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.pdb
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.AssemblyInfo.cs
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Um mundo pequeno\obj\Debug\netcoreapp3.1\Desafios do Dojo Puzzles - Intelitrader.pdb

@@ -1,0 +1,11 @@
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.exe
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.deps.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.runtimeconfig.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\bin\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.pdb
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\obj\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\obj\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\obj\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.AssemblyInfo.cs
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\obj\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.dll
+C:\Users\henri\Desktop\Desafios do Dojo Puzzles - Intelitrader\Desafio - Identificando Progressões Aritméticas\obj\Debug\netcoreapp3.1\Desafio - Identificando Progressões Aritméticas.pdb
